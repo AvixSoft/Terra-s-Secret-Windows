@@ -1,0 +1,23 @@
+0 ICON "logo.ico"
+
+1 VERSIONINFO
+FILEVERSION     1,1,0,0
+PRODUCTVERSION  1,1,0,0
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904E4"
+        BEGIN
+            VALUE "CompanyName","AvixPro\0"
+            VALUE "FileDescription","AvixPro Compiler\0"
+            VALUE "FileVersion","1.1\0"
+            VALUE "InternalName","AvixPro.bas\0"
+            VALUE "LegalCopyright","LGPL\0"
+            VALUE "LegalTrademarks","\0"
+            VALUE "OriginalFilename","AvixPro.exe\0"
+            VALUE "ProductName","AvixPro\0"
+            VALUE "ProductVersion","2.3\0"
+            VALUE "Comments","AvixPro is a modern extended BASIC programming language that retains QB4.5/Qbasic compatibility and compiles native binaries for Windows, Linux and macOS.\0"
+        END
+    END
+END
